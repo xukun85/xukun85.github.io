@@ -1,0 +1,185 @@
+<html>
+<head>
+<title>Interactive Hair Rendering and Appearance Editing under Environment Lighting</title>
+
+<STYLE type=text/css>
+BODY {
+	MARGIN: 15px 30px 0px 15px; BACKGROUND-COLOR: #ffffff
+}
+.style1 {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px
+}
+.style_title {
+	FONT-WEIGHT: bold; 	FONT-SIZE: 28px ; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style_author {
+	FONT-WEIGHT: bold; 	FONT-SIZE: 16px ; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.style3 {
+	FONT-SIZE: 12px
+}
+.style4 {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style6 {
+	COLOR: #29396d
+}
+.style7 {
+	FONT-SIZE: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style9 {
+	FONT-SIZE: 16px
+}
+.style10 {
+	FONT-SIZE: 12px; COLOR: #000033
+}
+.style12 {
+	COLOR: #333333
+}
+.style14 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+.style15 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+}
+</STYLE>
+
+
+</head>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1068843-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<br>
+
+<body BGCOLOR="#ffffff" link="#000000" vlink="#000000" class="style1">
+
+<center>
+<table width=95% bgcolor="#000000" cellspacing=0 cellpadding=1 border=0>
+<tr><td>
+<table width=100% bgcolor="#444444" cellspacing=0 cellpadding=0 border=0>
+<tr><td>
+<table width=100% bgcolor="#444444" cellspacing=0 cellpadding=0 border=0>
+
+<tr><td>
+<tr><td></td></tr></table></td></tr></table></td></tr></table>
+
+<p><span class="style_title">Interactive Hair Rendering and Appearance Editing under Environment Lighting</span></p>
+<p>
+  <span class="style_author"><a href="http://cg.cs.tsinghua.edu.cn/people/~kun">Kun Xu</a><sup>1</sup>, Li-Qian Ma<sup>1</sup>, Bo Ren<sup>1</sup>,  <a href="http://www.cs.umass.edu/~ruiwang/">Rui Wang</a><sup>2</sup>, <a href="http://cg.cs.tsinghua.edu.cn/prof_hu.htm">Shi-Min Hu</a><sup>1</sup> <br>
+    <sup>1</sup>Tsinghua University<br>
+    <sup>2</sup>University of Massachusetts<br>
+    </span>
+  
+  <span class="style1"><br>
+    
+    
+    
+    <a href="hair1.jpg"><img src="hair1.jpg" width=197 height=240></a>
+    <a href="hair2.jpg"><img src="hair2.jpg" width=197 height=240></a>
+    <a href="hair3.jpg"><img src="hair3.jpg" width=197 height=240></a>
+    <a href="hair4.jpg"><img src="hair4.jpg" width=197 height=240></a>
+    <a href="hair5.jpg"><img src="hair5.jpg" width=197 height=240></a>
+    
+    </span> 
+</p>
+<table width=689>
+  <tr><td>
+    
+    
+  </td></tr>
+</table>
+
+<span class="style1"><br>
+
+</span>
+<table width=95% bgcolor="#000000" cellspacing=0 cellpadding=1 border=0>
+  <tr><td>
+  <table width=100% bgcolor="#444444" cellspacing=0 cellpadding=0 border=0>
+  <tr><td>
+  <table width=100% bgcolor="#444444" cellspacing=0 cellpadding=0 border=0>
+  <tr><td>
+<tr><td></td></tr></table></td></tr></table></td></tr></table>
+
+</center>
+
+<span class="style1"><br>
+<br>
+
+</span>
+<center>
+  <table width=95% bgcolor="#ffffff" cellspacing=0 cellpadding=1 border=0>
+  <tr>
+    <td>
+    
+    <p><span class="style1"><b>Abstract:</b>
+      We present an interactive algorithm for hair rendering and appearance
+      editing under complex environment lighting represented
+      as spherical radial basis functions (SRBFs). Our main contribution
+      is to derive a compact 1D circular Gaussian representation
+      that can accurately model the hair scattering function introduced
+      by [Marschner et al. 2003]. The primary benefit of this representation
+      is that it enables us to evaluate, at run-time, closed-form integrals
+      of the scattering function with each SRBF light, resulting
+      in efficient computation of both single and multiple scatterings. In
+      contrast to previous work, our algorithm computes the rendering
+      integrals entirely on the fly and does not depend on expensive precomputation.
+      Thus we allow the user to dynamically change the
+      hair scattering parameters, which can vary spatially. Analyses show
+      that our 1D circular Gaussian representation is both accurate and
+      concise. In addition, our algorithm incorporates the eccentricity of
+      the hair. We implement our algorithm on the GPU, achieving interactive
+      hair rendering and simultaneous appearance editing under
+      complex environment maps for the first time.
+      <br><br>
+      
+      <b>Paper:</b> <a href="[SIGA11][Interactive%20Hair%20Rendering%20and%20Appearance%20Editing%20under%20Environment%20Lighting].pdf">[PDF 1.9M]</a>. <br>
+      <b>Presentation:</b> <a href="hair.pptx">[PPTX 34.6M]</a> , <a href="hair_novideo.pptx">[PPTX (no video) 4.4M]</a><br>
+      <b>Supplemental Document:</b> <a href="[SIGA11][Interactive%20Hair%20Rendering%20and%20Appearance%20Editing%20under%20Environment%20Lighting]_sup.pdf">[PDF 1.3M]</a>. <br>  
+      <b>Supplemental Video:</b> <a href="[SIGA11][Interactive%20Hair%20Rendering%20and%20Appearance%20Editing%20under%20Environment%20Lighting].avi">[AVI 53.2M]</a>.</span></p>
+    <table width="100%" border="0">
+      <tr>
+        <td width="1%" align="left" valign="top"><b>Bibtex: </b></td>
+        <td width="99%">@article{Xu11sigasia,<br>
+          author = {Kun Xu and Li-Qian Ma and Bo Ren and Rui Wang and Shi-Min Hu},<br>
+          title = {Interactive Hair Rendering and Appearance Editing under Environment Lighting},<br>
+          journal = {ACM Transactions on Graphics},<br>
+          volume = {30},<br>
+          number = {6},<br>
+          year = {2011},<br>
+          pages = {173:1--173:10},<br>
+          articleno = {173},<br>
+          }</td>
+        </tr>
+    </table>
+
+    </table>
+  <span class="style1"><br>
+  <br>
+  </span>
+  <table width=95% bgcolor="#000000" cellspacing=0 cellpadding=1 border=0>
+    <tr><td>
+      <table width=100% bgcolor="#444444" cellspacing=0 cellpadding=0 border=0>
+        <tr><td>
+          <table width=100% bgcolor="#444444" cellspacing=0 cellpadding=0 border=0>
+            <tr><td>
+            <tr><td></td></tr></table></td></tr></table></td></tr></table>
+  <p>&nbsp;</p>
+</center>
+</body>
+</html>
