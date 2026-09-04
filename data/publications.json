@@ -1,0 +1,1959 @@
+[
+  {
+    "year": "2026",
+    "title": "Pixel-Light Attention for Neural Many-Light Importance Sampling",
+    "authors": "Xuejun Hu, Jinfan Lu, Kun Xu",
+    "author_links": [],
+    "venue": "ACM Transactions on Graphics (SIGGRAPH Asia 2026), accepted",
+    "teaser": {
+      "href": "2026/manylights_teaser.jpg"
+    },
+    "links": [],
+    "bibtex": ""
+  },
+  {
+    "year": "2026",
+    "title": "Blue Noise Dithering for Reservoir-based Spatio-temporal Importance Resampling",
+    "authors": "Zhong Shi, Kun Xu",
+    "author_links": [],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics, 2026",
+    "teaser": {
+      "href": "2026/bluenoise_restir_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2026/BlueNoiseReSTIR.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1109/TVCG.2026.3708022",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Shi2026BlueNoiseReSTIR,\n  author  = {Shi, Zhong and Xu, Kun},\n  title   = {Blue Noise Dithering for Reservoir-based Spatio-temporal Importance Resampling},\n  journal = {IEEE Transactions on Visualization and Computer Graphics},\n  year    = {2026},\n  doi     = {10.1109/TVCG.2026.3708022},\n}"
+  },
+  {
+    "year": "2026",
+    "title": "Spatio-Temporal Control Variates with ReSTIR for Real-Time Rendering",
+    "authors": "Zhong Shi, Cunhao Wu, Lifan Wu, Kun Xu",
+    "author_links": [],
+    "venue": "ACM SIGGRAPH 2026 Conference Papers, 96:1–96:11",
+    "award": "SIGGRAPH 2026 Honorable Mention Award",
+    "teaser": {
+      "href": "2026/restcv_teaser.png"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://hercier.github.io/restcv/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "https://hercier.github.io/restcv/assets/pdfs/paper.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "https://hercier.github.io/restcv/assets/pdfs/supplemental.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/Hercier/ReSTCV",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3799902.3811113",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Shi2026ReSTCV,\n  author    = {Shi, Zhong and Wu, Cunhao and Wu, Lifan and Xu, Kun},\n  title     = {Spatio-Temporal Control Variates with ReSTIR for Real-Time Rendering},\n  booktitle = {ACM SIGGRAPH 2026 Conference Papers},\n  year      = {2026},\n  pages     = {96:1--96:11},\n  doi       = {10.1145/3799902.3811113},\n}"
+  },
+  {
+    "year": "2026",
+    "title": "Generalized Spherical Harmonics Products using Spherical Grids",
+    "authors": "Di An, Jiaqi Wu, Bowen Xu, Ling-Qi Yan, Kun Xu",
+    "author_links": [
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 45(4), 63:1–63:18, 2026 (SIGGRAPH 2026)",
+    "teaser": {
+      "href": "2026/sphgrid_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://jiaoplusjuan.github.io/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "https://jiaoplusjuan.github.io/paper/Generalized-Spherical-Harmonics-Products-using-Spherical-Grids.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3811322",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{An2026SphGrid,\n  author    = {An, Di and Wu, Jiaqi and Xu, Bowen and Yan, Ling-Qi and Xu, Kun},\n  title     = {Generalized Spherical Harmonics Products using Spherical Grids},\n  journal   = {ACM Transactions on Graphics},\n  year      = {2026},\n  volume    = {45},\n  number    = {4},\n  pages     = {63:1--63:18},\n  doi       = {10.1145/3811322},\n}"
+  },
+  {
+    "year": "2026",
+    "title": "Gradient-Domain Reconstruction for Monte Carlo PDE Solvers",
+    "authors": "Jiaqi Wu, Xuejun Hu, Shuang Zhao, Kun Xu",
+    "author_links": [
+      {
+        "name": "Shuang Zhao",
+        "url": "https://shuangz.com/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 45(4), 130:1–130:11, 2026 (SIGGRAPH 2026)",
+    "award": "SIGGRAPH 2026 Honorable Mention Award",
+    "teaser": {
+      "href": "2026/gd_pde_teaser.webp"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://jiaoplusjuan.github.io/GDMCPDE.html",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "https://jiaoplusjuan.github.io/paper/Gradient-Domain-Reconstruction-for-Monte-Carlo-PDE-Solvers.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/jiaoplusjuan/Gradient-Domain-Reconstruction-for-Monte-Carlo-PDE-Solvers",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3811295",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Wu2026GradPDE,\n  author    = {Wu, Jiaqi and Hu, Xuejun and Zhao, Shuang and Xu, Kun},\n  title     = {Gradient-Domain Reconstruction for Monte Carlo PDE Solvers},\n  journal   = {ACM Transactions on Graphics},\n  year      = {2026},\n  volume    = {45},\n  number    = {4},\n  pages     = {130:1--130:11},\n  doi       = {10.1145/3811295},\n}"
+  },
+  {
+    "year": "2025",
+    "title": "Generalized Unbiased Reconstruction for Gradient-Domain Rendering",
+    "authors": "Difei Yan, Zengyu Li, Lifan Wu, Kun Xu",
+    "author_links": [],
+    "venue": "ACM Transactions on Graphics 44(6), 211:1–211:14, 2025 (SIGGRAPH Asia 2025)",
+    "teaser": {
+      "href": "2025/gurecon_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2025/GURecon.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/lastmc/GURecon",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3763297",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Yan2025GDUnbiased,\n  author    = {Yan, Difei and Li, Zengyu and Wu, Lifan and Xu, Kun},\n  title     = {Generalized Unbiased Reconstruction for Gradient-Domain Rendering},\n  journal   = {ACM Transactions on Graphics},\n  year      = {2025},\n  volume    = {44},\n  number    = {6},\n  pages     = {211:1--211:14},\n  doi       = {10.1145/3763297},\n}"
+  },
+  {
+    "year": "2025",
+    "title": "Guided Lens Sampling for Efficient Monte Carlo Circle-of-Confusion Rendering",
+    "authors": "Jiawei Huang, Shaokun Zheng, Kun Xu, Yoshifumi Kitamura, Jiaping Wang",
+    "author_links": [
+      {
+        "name": "Jiaping Wang",
+        "url": "https://jiapingwang.com/"
+      }
+    ],
+    "venue": "ACM SIGGRAPH 2025 Conference Papers, 34:1–34:10",
+    "teaser": {
+      "href": "2025/guided_lens_teaser.png"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "https://jiapingwang.com/files/guided_lens_sig25.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3721238.3730608",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Huang2025GuidedLens,\n  author    = {Huang, Jiawei and Zheng, Shaokun and Xu, Kun and Kitamura, Yoshifumi and Wang, Jiaping},\n  title     = {Guided Lens Sampling for Efficient Monte Carlo Circle-of-Confusion Rendering},\n  booktitle = {ACM SIGGRAPH 2025 Conference Papers},\n  year      = {2025},\n  pages     = {34:1--34:10},\n  doi       = {10.1145/3721238.3730608},\n}"
+  },
+  {
+    "year": "2025",
+    "title": "Kernel Predicting Neural Shadow Maps",
+    "authors": "Xuejun Hu, Jinfan Lu, Kun Xu",
+    "author_links": [],
+    "venue": "ACM SIGGRAPH 2025 Conference Papers, 36:1–36:10",
+    "teaser": {
+      "href": "2025/kpnsm_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://hoosus.github.io/kpnsm",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "https://hoosus.github.io/publications/kpnsm.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/Hoosus/KPNSM",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3721238.3730645",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Hu2025KPNSM,\n  author    = {Hu, Xuejun and Lu, Jinfan and Xu, Kun},\n  title     = {Kernel Predicting Neural Shadow Maps},\n  booktitle = {ACM SIGGRAPH 2025 Conference Papers},\n  year      = {2025},\n  pages     = {36:1--36:10},\n  doi       = {10.1145/3721238.3730645},\n}"
+  },
+  {
+    "year": "2025",
+    "title": "Real-Time Neural Homogeneous Translucent Material Rendering Using Diffusion Blocks",
+    "authors": "Di An, Liang-Fu Kang, Kun Xu",
+    "author_links": [],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics 31(10), 7519–7534, 2025",
+    "teaser": {
+      "href": "2025/translucent_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1109/TVCG.2025.3548442",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{An2025Translucent,\n  author    = {An, Di and Kang, Liang-Fu and Xu, Kun},\n  title     = {Real-Time Neural Homogeneous Translucent Material Rendering Using Diffusion Blocks},\n  journal   = {IEEE Transactions on Visualization and Computer Graphics},\n  year      = {2025},\n  volume    = {31},\n  number    = {10},\n  pages     = {7519--7534},\n  doi       = {10.1109/TVCG.2025.3548442},\n}"
+  },
+  {
+    "year": "2025",
+    "title": "Fast Video Recoloring via Curve-Based Palettes",
+    "authors": "Zheng-Jun Du, Jia-Wei Zhou, Kang Li, Jian-Yu Hao, Zi-Kang Huang, Kun Xu",
+    "author_links": [
+      {
+        "name": "Zheng-Jun Du",
+        "url": "https://zhengjun-du.github.io/"
+      }
+    ],
+    "venue": "IEEE Transactions on Image Processing 34, 5920–5934, 2025",
+    "teaser": {
+      "href": "2025/fastvideorecolor_teaser.png"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://zhengjun-du.github.io/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "https://zhengjun-du.github.io/papers/2025081/Fast_Video_Recoloring_via_Curve-based_Palettes.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/Zhengjun-Du/Fast_Video_Recoloring_via_Curve-based_Palettes",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1109/TIP.2025.3607584",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Du2025FastVideoRecolor,\n  author    = {Du, Zheng-Jun and Zhou, Jia-Wei and Li, Kang and Hao, Jian-Yu and Huang, Zi-Kang and Xu, Kun},\n  title     = {Fast Video Recoloring via Curve-Based Palettes},\n  journal   = {IEEE Transactions on Image Processing},\n  year      = {2025},\n  volume    = {34},\n  pages     = {5920--5934},\n  doi       = {10.1109/TIP.2025.3607584},\n}"
+  },
+  {
+    "year": "2025",
+    "title": "Adding Regional Control for Continuous Remeshing via Attention Flows",
+    "authors": "Jiaqi Wu, Kun Xu",
+    "author_links": [],
+    "venue": "ACM SIGGRAPH 2025 Posters, 1:1–1:2 (Poster)",
+    "teaser": {
+      "href": "2025/remesh_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://jiaoplusjuan.github.io/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3721250.3743017",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Wu2025Remesh,\n  author    = {Wu, Jiaqi and Xu, Kun},\n  title     = {Adding Regional Control for Continuous Remeshing via Attention Flows},\n  booktitle = {ACM SIGGRAPH 2025 Posters},\n  year      = {2025},\n  pages     = {1:1--1:2},\n  doi       = {10.1145/3721250.3743017},\n}"
+  },
+  {
+    "year": "2025",
+    "title": "Topology-Aware Polymorphism for Embedded Shading Languages",
+    "authors": "Ling Zhu, Liulei Zou, Shaokun Zheng, Kun Xu",
+    "author_links": [],
+    "venue": "SIGGRAPH Asia 2025 Posters, 66:1–66:2 (Poster)",
+    "teaser": {
+      "href": "2025/topoly_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1145/3757374.3771513",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Zhu2025TopoPoly,\n  author    = {Zhu, Ling and Zou, Liulei and Zheng, Shaokun and Xu, Kun},\n  title     = {Topology-Aware Polymorphism for Embedded Shading Languages},\n  booktitle = {SIGGRAPH Asia 2025 Posters},\n  year      = {2025},\n  pages     = {66:1--66:2},\n  doi       = {10.1145/3757374.3771513},\n}"
+  },
+  {
+    "year": "2024",
+    "title": "GPU Coroutines for Flexible Splitting and Scheduling of Rendering Tasks",
+    "authors": "Shaokun Zheng, Xin Chen, Zhong Shi, Ling-Qi Yan, and Kun Xu",
+    "author_links": [
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 43(6), 281:1 – 281:24, 2024 (SIGGRAPH Asia 2024)",
+    "teaser": {
+      "href": "2024/coroutine_teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2024/coroutine_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2024/GPUCoroutines.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2024/GPUCoroutines.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Zheng2024GPUCoroutines,\nauthor = {Zheng, Shaokun and Chen, Xin and Shi, Zhong and Yan, Ling-Qi and Xu, Kun},\ntitle = {GPU Coroutines for Flexible Splitting and Scheduling of Rendering Tasks},\nyear = {2024},\nissue_date = {December 2024},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {43},\nnumber = {6},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3687766},\ndoi = {10.1145/3687766},\njournal = {ACM Trans. Graph.},\nmonth = nov,\narticleno = {281},\nnumpages = {24},\nkeywords = {GPU, coroutine, rendering, program transformation, asynchronous programming, task scheduling}\n}"
+  },
+  {
+    "year": "2024",
+    "title": "Differentiable Photon Mapping using Generalized Path Gradients",
+    "authors": "Jiankai Xing, Zengyu Li, Fujun Luan, Kun Xu",
+    "author_links": [
+      {
+        "name": "Jiankai Xing",
+        "url": "https://jkxing.github.io/academic/"
+      },
+      {
+        "name": "Fujun Luan",
+        "url": "https://luanfujun.github.io/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 43(6), 257:1 – 257:15, 2024 (SIGGRAPH Asia 2024)",
+    "teaser": {
+      "href": "2024/DPM_teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2024/DPM_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://jkxing.github.io/academic/publication/DPMG",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2024/DPMG.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2024/DPMG.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xing2024DPMG,\n            title = {Differentiable Photon Mapping using Generalized Path Gradients},\n            author = {Xing, Jiankai and Li, Zengyu and Luan, Fujun and Xu, Kun},\n            year = {2024},\n            month = {dec},\n            url = {https://doi.org/10.1145/3687958},\n            articleno = {257},\n            numpages = {14},\n            journal = {ACM Trans. Graph.},\n            volume = {43},\n            number = {6},\n            publisher = {Association for Computing Machinery},\n            }"
+  },
+  {
+    "year": "2024",
+    "title": "Filtering-Based Reconstruction for Gradient-Domain Rendering",
+    "authors": "Difei Yan, Shaokun Zheng, Ling-Qi Yan, Kun Xu",
+    "author_links": [
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi"
+      }
+    ],
+    "venue": "SIGGRAPH Asia, 2024",
+    "teaser": {
+      "href": "2024/filter_teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2024/filter_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2024/GradFiltering.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2024/GradFiltering.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Yan2024Filtering,\nauthor = {Yan, Difei and Zheng, Shaokun and Yan, Ling-Qi and Xu, Kun},\ntitle = {Filtering-Based Reconstruction for Gradient-Domain Rendering},\nyear = {2024},\nisbn = {9798400711312},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3680528.3687568},\ndoi = {10.1145/3680528.3687568},\nbooktitle = {SIGGRAPH Asia 2024 Conference Papers},\narticleno = {69},\nnumpages = {10},\nkeywords = {Gradient-Domain Rendering, Reconstruction, Optimization},\nlocation = {\n},\nseries = {SA '24}\n}"
+  },
+  {
+    "year": "2024",
+    "title": "Palette-Based Content-Aware Image Recoloring",
+    "authors": "Zheng-Jun Du, Jia-Wei Zhou, Zi-Xun Xia, Bing-Feng Seng, Kun Xu",
+    "author_links": [
+      {
+        "name": "Zheng-Jun Du",
+        "url": "https://zhengjun-du.github.io/"
+      }
+    ],
+    "venue": "Computational Visual Media (CVM) 2024",
+    "teaser": {
+      "href": "2024/palette_recolor_teaser.png"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://zhengjun-du.github.io/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "https://zhengjun-du.github.io/papers/202312/content-aware%20recolor.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/Zhengjun-Du/ContentAwareImageRecoloring",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "doi",
+        "href": "https://doi.org/10.1007/978-981-97-2092-7_12",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Du2024PaletteRecolor,\n  author    = {Du, Zheng-Jun and Zhou, Jia-Wei and Xia, Zi-Xun and Seng, Bing-Feng and Xu, Kun},\n  title     = {Palette-Based Content-Aware Image Recoloring},\n  booktitle = {Computational Visual Media (CVM)},\n  year      = {2024},\n  doi       = {10.1007/978-981-97-2092-7_12},\n}"
+  },
+  {
+    "year": "2023",
+    "title": "Extended Path Space Manifolds for Physically Based Differentiable Rendering",
+    "authors": "Jiankai Xing, Xuejun Hu, Fujun Luan, Ling-Qi Yan, Kun Xu",
+    "author_links": [
+      {
+        "name": "Jiankai Xing",
+        "url": "https://jkxing.github.io/academic/"
+      },
+      {
+        "name": "Fujun Luan",
+        "url": "https://luanfujun.github.io/"
+      },
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi"
+      }
+    ],
+    "venue": "SIGGRAPH Asia, 2023",
+    "teaser": {
+      "href": "2023ManifoldDifferential/teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2023ManifoldDifferential/teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://jkxing.github.io/academic/publication/EPSM/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2023ManifoldDifferential/EPSM_PBDR.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2023ManifoldDifferential/EPSM_PBDR.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Xing2023EPSM,\n                          title = {Extended Path Space Manifolds for Physically Based Differentiable Rendering},\n                          author = {Xing, Jiankai and Hu, Xuejun and Luan, Fujun and Yan, Ling-Qi and Xu, Kun},\n                          year = {2023},\n                          publisher = {ACM},\n                          booktitle = {SIGGRAPH Asia 2023 Conference Papers},\n                          url = {https://doi.org/10.1145/3610548.3618195},\n                          articleno = {62},\n                          numpages = {11}\n                          }"
+  },
+  {
+    "year": "2023",
+    "title": "Image vectorization and editing via linear gradient layer decomposition",
+    "authors": "Zheng-Jun Du, Liang-Fu Kang, Jianchao Tan, Yotam Gingold, Kun Xu",
+    "author_links": [
+      {
+        "name": "Zheng-Jun Du",
+        "url": "https://zhengjun-du.github.io/"
+      },
+      {
+        "name": "Jianchao Tan",
+        "url": "https://jianchaotan.github.io/"
+      },
+      {
+        "name": "Yotam Gingold",
+        "url": "https://cragl.cs.gmu.edu/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 42(4), 97:1 – 97:13, 2023 (SIGGRAPH 2023)",
+    "teaser": {
+      "href": "2023LayerDecomposition/teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2023LayerDecomposition/teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://cragl.cs.gmu.edu/gradientlayers/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2023LayerDecomposition/Image_vectorization.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2023LayerDecomposition/Image_vectorization.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Du2023Layer,\nauthor = {Du, Zheng-Jun and Kang, Liang-Fu and Tan, Jianchao and Gingold, Yotam and Xu, Kun},\ntitle = {Image Vectorization and Editing via Linear Gradient Layer Decomposition},\nyear = {2023},\nissue_date = {August 2023},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {42},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3592128},\ndoi = {10.1145/3592128},\njournal = {ACM Trans. Graph.},\nmonth = {jul},\narticleno = {97},\nnumpages = {13},\nkeywords = {vectorization, compositing, layers, recoloring, gradient, color space, images, RGB}\n}"
+  },
+  {
+    "year": "2022",
+    "title": "LuisaRender: A High-Performance Rendering Framework with Layered and Unified Interfaces on Stream Architectures",
+    "authors": "Shaokun Zheng, Zhiqian Zhou, Xin Chen, Difei Yan, Chuyan Zhang, Yuefeng Geng, Yan Gu, Kun Xu",
+    "author_links": [
+      {
+        "name": "Yan Gu",
+        "url": "https://www.cs.ucr.edu/~ygu/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 41(6), 232:1 – 232:19, 2022 (SIGGRAPH Asia 2022)",
+    "teaser": {
+      "href": "2022LuisaRender/LUISA.png",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022LuisaRender/LUISA.png"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://luisa-render.com/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2022LuisaRender/LuisaRender_SIGA2022.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022LuisaRender/LuisaRender_SIGA2022.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "2022LuisaRender/Supplemental_LuisaRender_SIGA2022.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022LuisaRender/Supplemental_LuisaRender_SIGA2022.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/LuisaGroup",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Zheng2022LuisaRender,\ntitle = {LuisaRender: A High-Performance Rendering Framework with Layered and Unified Interfaces on Stream Architectures},\nauthor = {Zheng, Shaokun and Zhou, Zhiqian and Chen, Xin and Yan, Difei and Zhang, Chuyan and Geng, Yuefeng and Gu, Yan and Xu, Kun},\n    journal = {ACM Trans. Graph.},\n    volume = {41},\n    number = {6},\n    year = {2022},\n    issue_date = {December 2022},\n    publisher = {Association for Computing Machinery},\n    address = {New York, NY, USA},\n    issn = {0730-0301},\n    url = {https://doi.org/10.1145/3550454.3555463},\n    doi = {10.1145/3550454.3555463},\n    month = {dec},\n    articleno = {232},\n    numpages = {19}\n}"
+  },
+  {
+    "year": "2022",
+    "title": "Differentiable Rendering using RGBXY Derivatives and Optimal Transport",
+    "authors": "Jiankai Xing, Fujun Luan, Ling-Qi Yan, Xuejun Hu, Houde Qian, Kun Xu",
+    "author_links": [
+      {
+        "name": "Jiankai Xing",
+        "url": "https://jkxing.github.io/academic/"
+      },
+      {
+        "name": "Fujun Luan",
+        "url": "https://luanfujun.github.io/"
+      },
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 41(6), 189:1 – 189:13, 2022 (SIGGRAPH Asia 2022)",
+    "teaser": {
+      "href": "2022DROT/img_DROT.jpeg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022DROT/img_DROT.jpeg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://jkxing.github.io/academic/publication/DROT",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2022DROT/paper_DROT.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022DROT/paper_DROT.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "2022DROT/supplementary_DROT.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022DROT/supplementary_DROT.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://www.github.com/jkxing/DROT",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xing2022drot,\n    title = {Differentiable Rendering using RGBXY Derivatives and Optimal Transport},\n    author = {Xing, Jiankai and Luan, Fujun and Yan, Ling-Qi and Hu, Xuejun and Qian, Houde and Xu, Kun},\n    journal = {ACM Trans. Graph.},\n    volume = {41},\n    number = {6},\n    year = {2022},\n    issue_date = {December 2022},\n    publisher = {Association for Computing Machinery},\n    address = {New York, NY, USA},\n    url = {https://doi.org/10.1145/3550454.3555479},\n    issn = {0730-0301},\n    doi = {10.1145/3550454.3555479},\n    month = {dec},\n    articleno = {189},\n    numpages = {13}\n}"
+  },
+  {
+    "year": "2022",
+    "title": "Unbiased Caustics Rendering Guided by Representative Specular Path",
+    "authors": "He Li, Beibei Wang, Changehe Tu, Kun Xu, Nicolas Holzschuch, Ling-Qi Yan",
+    "author_links": [
+      {
+        "name": "Beibei Wang",
+        "url": "https://wangningbei.github.io/"
+      },
+      {
+        "name": "Nicolas Holzschuch",
+        "url": "https://maverick.inria.fr/Members/Nicolas.Holzschuch/"
+      },
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi"
+      }
+    ],
+    "venue": "In Proceedings of SIGGRAPH Asia, 2022",
+    "teaser": {
+      "href": "2022PathCutGuiding/pguide.png",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022PathCutGuiding/pguide.png"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://wangningbei.github.io/2022/PathcutGuiding.html",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{Li2022Pathcut,\n  author = {He Li and Beibei Wang and Changehe Tu and Kun Xu and Nicolas Holzschuch and Ling-Qi Yan},\n  title = {Unbiased Caustics Rendering Guided by Representative Specular Paths},\n  booktitle={Proceedings of SIGGRAPH Asia 2022},\n  year = {2022},\n  publisher = {Association for Computing Machinery},\n  url = {https://doi.org/10.1145/3550469.3555381},\n  doi = {10.1145/3550469.3555381},\n}"
+  },
+  {
+    "year": "2022",
+    "title": "Neural Color Operators for Sequential Image Retouching",
+    "authors": "Yili Wang, Xin Li, Kun Xu, Dongliang He, Qi Zhang, Fu Li, Errui Ding",
+    "author_links": [
+      {
+        "name": "Yili Wang",
+        "url": "https://yili.host/"
+      }
+    ],
+    "venue": "In Proceedings of the European Conference on Computer Vision (ECCV), 2022",
+    "teaser": {
+      "href": "2022NeurOp/neurop.png",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022NeurOp/neurop.png"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://amberwangyili.github.io/neurop",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2022NeurOp/neurop.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022NeurOp/neurop.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "2022NeurOp/neurop-supp.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022NeurOp/neurop-supp.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://www.github.com/amberwangyili/neurop",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@InProceedings{wang2022neurop,\n\tauthor = {Wang, Yili and Li, Xin and Xu, Kun and He, Dongliang and Zhang, Qi and Li, Fu and Ding, Errui},\n\ttitle = {Neural Color Operators for Sequential Image Retouching},\n\tbooktitle = {Computer Vision -- ECCV 2022},\n\tyear = {2022},\n}"
+  },
+  {
+    "year": "2022",
+    "title": "Neural Global Illumination: Interactive Indirect Illumination Prediction under Dynamic Area Lights",
+    "authors": "Duan Gao, Haoyuan Mu, Kun Xu",
+    "author_links": [
+      {
+        "name": "Duan Gao",
+        "url": "https://gao-duan.github.io/"
+      }
+    ],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics (Early Access), 2022",
+    "teaser": {
+      "href": "2022neuralGI/NGI.png",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022neuralGI/NGI.png"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2022neuralGI/NeuralGlobalIllumination.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022neuralGI/NeuralGlobalIllumination.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "2022neuralGI/NeuralGlobalIllumination_supplementary.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022neuralGI/NeuralGlobalIllumination_supplementary.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "video",
+        "href": "https://drive.google.com/file/d/1wem58_RQUH7uEh07NP9jsCRnx-WFvxRF/view",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{gao2022NGL,  \n\tauthor={Gao, Duan and Mu, Haoyuan and Xu, Kun}, \n\tjournal={IEEE Transactions on Visualization and Computer Graphics},  \n\ttitle={Neural Global Illumination: Interactive Indirect Illumination Prediction under Dynamic Area Lights},   year={2022},  \n\tvolume={},  number={},  \n\tpages={1-17},  \n\tdoi={10.1109/TVCG.2022.3209963}\n\t}"
+  },
+  {
+    "year": "2022",
+    "title": "An Image-to-video Model for Real-Time Video Enhancement",
+    "authors": "Dongyu She, Kun Xu",
+    "author_links": [
+      {
+        "name": "Dongyu She",
+        "url": "https://dongyushe.cn/"
+      }
+    ],
+    "venue": "In Proceedings of the 30th ACM International Conference on Multimedia, 2022",
+    "teaser": {
+      "href": "2022MMVideo/video.png",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022MMVideo/video.png"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2022MMVideo/MM22_VideoEnhance_CR.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2022MMVideo/MM22_VideoEnhance_CR.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@inproceedings{she2022video,\n\tauthor = {She, Dongyu and Xu, Kun},\n\ttitle = {An Image-to-Video Model for Real-Time Video Enhancement},\n\tyear = {2022},\n\tisbn = {9781450392037},\n\tpublisher = {Association for Computing Machinery},\n\taddress = {New York, NY, USA},\n\turl = {https://doi.org/10.1145/3503161.3548325},\n\tdoi = {10.1145/3503161.3548325},\n\tbooktitle = {Proceedings of the 30th ACM International Conference on Multimedia},\n\tpages = {1837–1846},\n\tnumpages = {10},\n\tkeywords = {image enhancement, image-to-video model, video enhancement, temporal consistency},\n\tlocation = {Lisboa, Portugal},\n\tseries = {MM '22}\n\t}"
+  },
+  {
+    "year": "2021",
+    "title": "Ensemble Denoising for Monte Carlo Renderings",
+    "authors": "Shaokun Zheng, Fengshi Zheng, Kun Xu, Ling-Qi Yan",
+    "author_links": [
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 40(6), 274:1 – 274:17, 2021 (SIGGRAPH Asia 2021)",
+    "teaser": {
+      "href": "2021denoising/teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021denoising/teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2021denoising/Ensemble_Denoising_SIGA2021_small.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021denoising/Ensemble_Denoising_SIGA2021_small.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/Mike-Leo-Smith/EnsembleDenoising",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Zheng:2021:EnsembleDenoising,\nauthor    = {Zheng, Shaokun and Zheng, Fengshi and Xu, Kun and Yan, Ling-Qi},\ntitle     = {Ensemble Denoising for Monte Carlo Renderings},\njournal   = {ACM Transactions on Graphics},\nvolume    = {40},\nnumber    = {6},\nyear      = {2021},\narticleno = {274},\nnumpages = {17},\npages = {274:1--274:17}\n}"
+  },
+  {
+    "year": "2021",
+    "title": "Fast and Accurate Spherical Harmonics Products",
+    "authors": "Hanggao Xin, Zhiqian Zhou, Di An, Ling-Qi Yan, Kun Xu, Shi-Min Hu, and Shing-Tung Yau",
+    "author_links": [
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 40(6), 280:1-280:14, 2021 (SIGGRAPH Asia 2021)",
+    "teaser": {
+      "href": "2021shproduct/teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021shproduct/teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2021shproduct/paper_shmultprod.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021shproduct/paper_shmultprod.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/111116/shfft",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xin:2021:SHProducts,\nauthor    = {Xin, Hanggao and Zhou, Zhiqian and An, Di and Yan, Ling-Qi and Xu, Kun and Hu, Shi-Min and Yau, Shing-Tung},\ntitle     = {Fast and Accurate Spherical Harmonics Products},\njournal   = {ACM Transactions on Graphics},\nvolume    = {40},\nnumber    = {6},\nyear      = {2021},\narticleno = {280},\nnumpages = {14},\npages = {280:1--280:14}\n}"
+  },
+  {
+    "year": "2021",
+    "title": "Video Recoloring via Spatial-Temporal Geometric Palettes",
+    "authors": "Zheng-Jun Du, Kai-Xiang Lei, Kun Xu, Jianchao Tan, Yotam Gingold",
+    "author_links": [
+      {
+        "name": "Zheng-Jun Du",
+        "url": "https://zhengjun-du.github.io/"
+      },
+      {
+        "name": "Jianchao Tan",
+        "url": "https://jianchaotan.github.io/"
+      },
+      {
+        "name": "Yotam Gingold",
+        "url": "https://cs.gmu.edu/~ygingold/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 40(4), 150:1-150:16,2021 (SIGGRAPH 2021)",
+    "teaser": {
+      "href": "2021videopalette/palette_teaser.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021videopalette/palette_teaser.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2021videopalette/VideoRecoloring.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021videopalette/VideoRecoloring.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "2021videopalette/VideoRecoloring-userstudy.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021videopalette/VideoRecoloring-userstudy.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/Zhengjun-Du/GeometricPaletteBasedVideoRecoloring",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Du:2021:VRS,\nauthor    = {Du, Zheng-Jun and Lei, Kai-Xiang and Xu, Kun and Tan, Jianchao and Gingold, Yotam},\ntitle     = {Video Recoloring via Spatial-Temporal Geometric Palettes},\njournal   = {ACM Transactions on Graphics},\nvolume    = {40},\nnumber    = {4},\nyear      = {2021},\nmonth     = aug,\narticleno = {150},\nnumpages = {16},\nkeywords = {free-viewpoint, neural rendering, relighting},\npages = {150:1--150:16},\nkeywords  = {Palette, Color, Grading, Painting, Image, Video, Spatial-temporal, Recoloring, Layer, RGB}\n}"
+  },
+  {
+    "year": "2021",
+    "title": "Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment",
+    "authors": "Dongyu She, Yu-Kun Lai, Gaoxiong Yi, Kun Xu",
+    "author_links": [
+      {
+        "name": "Dongyu She",
+        "url": "https://dongyushe.cn/"
+      }
+    ],
+    "venue": "In Proceedings of IEEE CVPR 2021.",
+    "teaser": {
+      "href": "2021aesthetics/teaser-aesthetic.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2021aesthetics/teaser-aesthetic.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "https://openaccess.thecvf.com/content/CVPR2021/supplemental/She_Hierarchical_Layout-Aware_Graph_CVPR_2021_supplemental.pdf",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "jittor code",
+        "href": "https://github.com/shedy-pub/hlagcn-jittor",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@InProceedings{She:2021:AestheticsAssessment,\n    author    = {She, Dongyu and Lai, Yu-Kun and Yi, Gaoxiong and Xu, Kun},\n    title     = {Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment},\n    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n    month     = {June},\n    year      = {2021},\n    pages     = {8475-8484}\n}"
+  },
+  {
+    "year": "2020",
+    "title": "Deferred Neural Lighting: Free-viewpoint Relighting from Unstructured Photographs",
+    "authors": "Duan Gao, Guojun Chen, Yue Dong, Pieter Peers, Kun Xu, Xin Tong",
+    "author_links": [
+      {
+        "name": "Duan Gao",
+        "url": "https://gao-duan.github.io/"
+      },
+      {
+        "name": "Guojun Chen",
+        "url": "https://www.microsoft.com/en-us/research/people/guoch/"
+      },
+      {
+        "name": "Yue Dong",
+        "url": "http://yuedong.shading.me/"
+      },
+      {
+        "name": "Pieter Peers",
+        "url": "http://www.cs.wm.edu/~ppeers/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 39(6), 258:1-258:15,2020 (SIGGRAPH Asia 2020)",
+    "teaser": {
+      "href": "2020defnlight/teaser-relight.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2020defnlight/teaser-relight.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2020defnlight/DeferredNeuralLighting_high_resolution.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2020defnlight/DeferredNeuralLighting_high_resolution.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "slides",
+        "href": "2020defnlight/Slides_DeferredNeuralLighting.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2020defnlight/Slides_DeferredNeuralLighting.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/msraig/DeferredNeuralLighting",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Gao2020DeferredNeuralLighting,\nauthor = {Gao, Duan and Chen, Guojun and Dong, Yue and Peers, Pieter and Xu, Kun and Tong, Xin},\ntitle = {Deferred Neural Lighting: Free-Viewpoint Relighting from Unstructured Photographs},\nyear = {2020},\nvolume = {39},\nnumber = {6},\ndoi = {10.1145/3414685.3417767},\njournal = {ACM Transactions on Graphics},\nmonth = nov,\narticleno = {258},\nnumpages = {15},\nkeywords = {free-viewpoint, neural rendering, relighting},\npages = {258:1--258:15},\n}"
+  },
+  {
+    "year": "2020",
+    "title": "Lightweight Bilateral Convolutional Neural Networks for Interactive Single-bounce Diffuse Indirect Illumination",
+    "authors": "Hanggao Xin, Shaokun Zheng, Kun Xu, Ling-Qi Yan",
+    "author_links": [
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi/"
+      }
+    ],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics, 2020, accepted.",
+    "teaser": {
+      "href": "2020DeepIndirect/teaser-indirect.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2020DeepIndirect/teaser-indirect.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2020DeepIndirect/paper_tvcg.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2020DeepIndirect/paper_tvcg.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@ARTICLE{Xin2020BilateralCNN,\n  author={Xin, Hanggao and Zheng, Shaokun and Xu, Kun and Yan, Ling-Qi},\n  journal={IEEE Transactions on Visualization and Computer Graphics}, \n  title={Lightweight Bilateral Convolutional Neural Networks for Interactive Single-bounce Diffuse Indirect Illumination}, \n  year={2020},\n  volume={},\n  number={},\n  pages={1-1},\n  doi={10.1109/TVCG.2020.3023129}\n}"
+  },
+  {
+    "year": "2019",
+    "title": "Adversarial Monte Carlo denoising with conditioned auxiliary feature modulation",
+    "authors": "Bing Xu, Junfei Zhang, Rui Wang, Kun Xu, Yong-Liang Yang, Chuan Li, Rui Tang",
+    "author_links": [
+      {
+        "name": "Bing Xu",
+        "url": "http://bingxu.tech/"
+      },
+      {
+        "name": "Rui Wang",
+        "url": "http://www.cad.zju.edu.cn/home/rwang/"
+      },
+      {
+        "name": "Yong-Liang Yang",
+        "url": "http://www.yongliangyang.net/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 38(6), 224:1--224:12, 2019. (SIGGRAPH Asia 2019)",
+    "teaser": {
+      "href": "2019GANdenoise/teaser-gan.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019GANdenoise/teaser-gan.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "http://adversarial.mcdenoising.org/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2019GANdenoise/MCDenoising_SIGA2019.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019GANdenoise/MCDenoising_SIGA2019.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu2019AdversarialMCDenoising,\n author = {Bing Xu and Junfei Zhang and Rui Wang and Kun Xu and Yong-Liang Yang and Chuan Li and Rui Tang},\n title = {Adversarial Monte Carlo Denoising with Conditioned Auxiliary Feature},\n journal = {ACM Transactions on Graphics},\n volume = {38},\n number = {6},\n year = {2019},\n pages = {224:1--224:12},\n articleno = {224},\n numpages = {12},\n}"
+  },
+  {
+    "year": "2019",
+    "title": "An Improved Geometric Approach for Palette‐based Image Decomposition and Recoloring",
+    "authors": "Yili Wang, Yifan Liu, Kun Xu",
+    "author_links": [],
+    "venue": "Computer Graphics Forum 38(7), 11-22, 2019. (PG 2019)",
+    "teaser": {
+      "href": "2019palette/teaser-palette.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019palette/teaser-palette.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2019palette/palette_pg2019.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019palette/palette_pg2019.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/amberwangyili/palette-refine",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Wang2019ImprovedPalette,\nauthor = {Wang, Yili and Liu, Yifan and Xu, Kun},\ntitle = {An Improved Geometric Approach for Palette-based Image Decomposition and Recoloring},\njournal = {Computer Graphics Forum},\nvolume = {38},\nnumber = {7},\npages = {11--22},\nyear = {2019}\n}"
+  },
+  {
+    "year": "2019",
+    "title": "Adaptive BRDF-Aware Multiple Importance Sampling of Many Lights",
+    "authors": "Yifan Liu, Kun Xu, Ling-Qi Yan",
+    "author_links": [
+      {
+        "name": "Ling-Qi Yan",
+        "url": "https://sites.cs.ucsb.edu/~lingqi/"
+      }
+    ],
+    "venue": "Computer Graphics Forum 38(4), 123-133, 2019. (EGSR 2019)",
+    "teaser": {
+      "href": "2019manylights/teaser-many.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019manylights/teaser-many.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2019manylights/BRDFOrientedSampling_egsr19.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019manylights/BRDFOrientedSampling_egsr19.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "slides",
+        "href": "2019manylights/slides_egsr2019.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019manylights/slides_egsr2019.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/lyfxyz/bisml",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Liu2019BRDFOrientedSampling,\nauthor = {Liu, Yifan and Xu, Kun and Yan, Ling-Qi},\ntitle = {Adaptive BRDF-Oriented Multiple Importance Sampling of Many Lights},\njournal = {Computer Graphics Forum},\nvolume = {38},\nnumber = {4},\npages = {123--133},\nyear = {2019}\n}"
+  },
+  {
+    "year": "2019",
+    "title": "Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images",
+    "authors": "Duan Gao, Xiao Li, Yue Dong, Pieter Peers, Kun Xu, Xin Tong",
+    "author_links": [
+      {
+        "name": "Duan Gao",
+        "url": "https://gao-duan.github.io/"
+      },
+      {
+        "name": "Xiao Li",
+        "url": "https://pableeto.github.io/"
+      },
+      {
+        "name": "Yue Dong",
+        "url": "http://yuedong.shading.me/"
+      },
+      {
+        "name": "Pieter Peers",
+        "url": "http://www.cs.wm.edu/~ppeers/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 38(4), 134:1-134:15, 2019. (SIGGRAPH 2019)",
+    "teaser": {
+      "href": "2019svbrdf/teaser-svbrdf.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019svbrdf/teaser-svbrdf.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2019svbrdf/mvsvbrdf_sig19.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019svbrdf/mvsvbrdf_sig19.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "slides",
+        "href": "2019svbrdf/mvsvbrdf_slide.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019svbrdf/mvsvbrdf_slide.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/msraig/DeepInverseRendering",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Gao2019EstimationSVBRDF,\n author = {Gao, Duan and Li, Xiao and Dong, Yue and Peers, Pieter and Xu, Kun and Tong, Xin},\n title = {Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images},\n journal = {ACM Transactions on Graphics},\n issue_date = {July 2019},\n volume = {38},\n number = {4},\n month = jul,\n year = {2019},\n issn = {0730-0301},\n pages = {134:1--134:15},\n articleno = {134},\n numpages = {15},\n doi = {10.1145/3306346.3323042},\n}"
+  },
+  {
+    "year": "2019",
+    "title": "Two-Layer QR Codes",
+    "authors": "Tailing Yuan, Yili Wang, Kun Xu, Ralph R. Martin, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Ralph R. Martin",
+        "url": "http://ralph.cs.cf.ac.uk/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "IEEE Transactions on Image Processing, 28(9):4413-4428,2019.",
+    "teaser": {
+      "href": "2019qrcode/teaser-qr.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019qrcode/teaser-qr.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "2019qrcode/two_layer_qr_code.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019qrcode/two_layer_qr_code.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "code",
+        "href": "https://github.com/yuantailing/two-layer-qrcode",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Yuan19TwoLayerQRCodes,\n  author = {Tailing Yuan and Yili Wang and Kun Xu and Ralph R. Martin and Shi-Min Hu},\n  title = {Two-Layer QR Codes},\n  journal = {IEEE Transactions on Image Processing},\n  volume = {28},\n  number = {9},\n  year = {2019},\n  pages = {4413--4428},\n}"
+  },
+  {
+    "year": "2019",
+    "title": "A Large Chinese Text Dataset in the Wild",
+    "authors": "Tai-Ling Yuan, Zhe Zhu, Kun Xu, Cheng-Jun Li, Tai-Jiang Mu, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Zhe Zhu",
+        "url": "https://sites.duke.edu/zzhu/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "Journal of Computer Science and Technology, 34(3), 509-521, 2019.",
+    "teaser": {
+      "href": "2019ctw/teaser-ctw.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019ctw/teaser-ctw.jpg"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "https://ctwdataset.github.io/",
+        "external": true,
+        "link_back": false
+      },
+      {
+        "label": "paper",
+        "href": "2019ctw/ctw_jcst.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019ctw/ctw_jcst.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental",
+        "href": "2019ctw/ctw_supplementary.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/2019ctw/ctw_supplementary.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "dataset",
+        "href": "https://ctwdataset.github.io/downloads.html",
+        "external": true,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Yuan19CTW,\n  author = {Tai-Ling Yuan and Zhe Zhu and Kun Xu and Cheng-Jun Li and Tai-Jiang Mu and Shi-Min Hu},\n  title = {A Large Chinese Text Dataset in the Wild},\n  journal = {Journal of Computer Science and Technology},\n  volume = {34},\n  number = {3},\n  year = {2019},\n  pages = {509--521},\n}"
+  },
+  {
+    "year": "2018",
+    "title": "Real-time High-fidelity Surface Flow Simulation",
+    "authors": "Bo Ren, Tailing Yuan, Chenfeng Li, Kun Xu, and Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Bo Ren",
+        "url": "http://ren-bo.net/"
+      },
+      {
+        "name": "Chenfeng Li",
+        "url": "http://engweb.swan.ac.uk/~cfli/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics, 24(8), 2411-2423, 2018.",
+    "teaser": {
+      "href": "fluid/fluid.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/fluid/fluid.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/TVCG-2017-Flow.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Ren18SurfaceFlow,\n  author = {Bo Ren and Tailing Yuan and Chenfeng Li and Kun Xu and Shi-Min Hu},\n  title = {Real-time High-fidelity Surface Flow Simulation},\n  journal = {IEEE Transactions on Visualization and Computer Graphics},\n  volume = {24},\n  number = {8},\n  year = {2018},\n  pages = {2411--2423},\n}"
+  },
+  {
+    "year": "2018",
+    "title": "Computational Design of Transforming Pop-up Books",
+    "authors": "Nan Xiao, Zhe Zhu, Ralph R. Martin, Kun Xu, Jia-Ming Lu, and Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Zhe Zhu",
+        "url": "https://sites.duke.edu/zzhu/"
+      },
+      {
+        "name": "Ralph R. Martin",
+        "url": "http://ralph.cs.cf.ac.uk/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 37(1), 8:1--8:14, 2018. (presented at SIGGRAPH 2018)",
+    "teaser": {
+      "href": "figs/popup.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/popup.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/TOG-2018-popup.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xiao18TransformPopup,\n  author = {Xiao, Nan and Zhu, Zhe and Martin, Ralph R. and Xu, Kun and Lu, Jia-Ming and Hu, Shi-Min},\n  title = {Computational Design of Transforming Pop-up Books},\n  journal = {ACM Transactions on Graphics},\n  volume = {37},\n  number = {1},\n  year = {2018},\n  pages = {8:1--8:14},\n}"
+  },
+  {
+    "year": "2017",
+    "title": "A survey of image synthesis and editing with generative adversarial networks",
+    "authors": "Xian Wu, Kun Xu, and Peter Hall",
+    "author_links": [
+      {
+        "name": "Peter Hall",
+        "url": "http://www.cs.bath.ac.uk/~pmh/"
+      }
+    ],
+    "venue": "Tsinghua Science and Technology, 22(6), 660-674, 2017.",
+    "teaser": {
+      "href": "figs/gan.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/gan.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/gan_survey_final.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Wu17GANSurvey,\n  author = {Xian Wu and Kun Xu and Peter Hall},\n  title = {A survey of image synthesis and editing with generative adversarial networks},\n  journal = {Tsinghua Science and Technology},\n  volume = {22},\n  number = {6},\n  year = {2017},\n  pages = {660--674},\n}"
+  },
+  {
+    "year": "2017",
+    "title": "Static Scene Illumination Estimation from Video with Applications",
+    "authors": "Bin Liu, Kun Xu, and Ralph R. Martin",
+    "author_links": [
+      {
+        "name": "Ralph R. Martin",
+        "url": "http://ralph.cs.cf.ac.uk/"
+      }
+    ],
+    "venue": "Journal of Computer Science and Technology, 32(3), 430-442, 2017.",
+    "teaser": {
+      "href": "figs/insert.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/insert.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/JCST-2017-illumination.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Liu17VideoInsert,\n  author = {Bin Liu and Kun Xu and Ralph Martin},\n  title = {Static Scene Illumination Estimation from Video with Applications},\n  journal = {Journal of Computer Science and Technology},\n  volume = {32},\n  number = {3},\n  year = {2017},\n  pages = {430--442},\n}"
+  },
+  {
+    "year": "2016",
+    "title": "Efficient, Edge-Aware, Combined Color Quantization and Dithering",
+    "authors": "Hao-Zhi Huang, Kun Xu, Ralph R. Martin, Fei-Yue Huang, and Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Ralph R. Martin",
+        "url": "http://ralph.cs.cf.ac.uk/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "IEEE Transactions on Image Processing, 25(3), 1152-1162, 2016.",
+    "teaser": {
+      "href": "figs/quantization.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/quantization.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "people/~huanghz/publications/TIP-2015-CombinedColorQuantization.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Huang16ColorQuantization,\n  author = {Hao-Zhi Huang and Kun Xu and Ralph R. Martin and Fei-Yue Huang and Shi-Min Hu},\n  title = {Efficient, Edge-Aware, Combined Color Quantization and Dithering},\n  journal = {IEEE Transactions on Image Processing},\n  volume = {25},\n  number = {3},\n  year = {2016},\n  pages = {1152--1162},\n}"
+  },
+  {
+    "year": "2016",
+    "title": "Faithful Completion of Images of Scenic Landmarks using Internet Images",
+    "authors": "Zhe Zhu, Hao-Zhi Huang, Zhi-Peng Tan, Kun Xu, and Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics, 22(8), 1945 - 1958, 2016.",
+    "teaser": {
+      "href": "figs/completion.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/completion.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/TVCG-2015-Completion.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Zhu16FaithfulCompletion,\n  author = {Zhu, Zhe and Huang, Hao-Zhi and Tan, Zhi-Peng and Xu, Kun and Hu, Shi-Min},\n  title = {Faithful Completion of Images of Scenic Landmarks using Internet Images},\n  journal = {IEEE Transactions on Visualization and Computer Graphics},\n  volume = {22},\n  number = {8},\n  year = {2016},\n  pages = {1945--1958},\n}"
+  },
+  {
+    "year": "2015",
+    "title": "Magic Decorator: Automatic Material Suggestion for Indoor Digital Scenes",
+    "authors": "Kang Chen, Kun Xu, Yizhou Yu, Tian-Yi Wang, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Yizhou Yu",
+        "url": "http://i.cs.hku.hk/~yzyu/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 34(6), 232:1 - 232:11, 2015. (SIGGRAPH Asia 2015)",
+    "teaser": {
+      "href": "figs/magic_decoration.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/magic_decoration.jpg"
+    },
+    "links": [
+      {
+        "label": "paper 22M",
+        "href": "people/~kang/MagicDecorator/paper.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Chen15MagicDecorator,\n  author = {Chen, Kang and Xu, Kun and Yu, Yizhou and Wang, Tian-Yi and Hu, Shi-Min},\n  title = {Magic Decorator: Automatic Material Suggestion for Indoor Digital Scenes},\n  journal = {ACM Transactions on Graphics},\n  volume = {34},\n  number = {6},\n  year = {2015},\n  pages = {232:1--232:11},\n}"
+  },
+  {
+    "year": "2014",
+    "title": "A Practical Algorithm for Rendering Interreflections with All-frequency BRDFs",
+    "authors": "Kun Xu, Yan-Pei Cao, Li-Qian Ma, Zhao Dong, Rui Wang, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Li-Qian Ma",
+        "url": "http://cg.cs.tsinghua.edu.cn/people/~liqian"
+      },
+      {
+        "name": "Zhao Dong",
+        "url": "http://www.graphics.cornell.edu/~zd/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics, 33(1), 10:1 - 10:16, 2014. (presented at SIGGRAPH 2014)",
+    "teaser": {
+      "href": "figs/interreflection.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/interreflection.gif"
+    },
+    "links": [
+      {
+        "label": "paper 1.2M",
+        "href": "interreflection/interreflection_paper.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/interreflection/interreflection_paper.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu14Interreflection,\n  author = {Xu, Kun and Cao, Yan-Pei and Ma, Li-Qian and Dong, Zhao and Wang, Rui and Hu, Shi-Min},\n  title = {A Practical Algorithm for Rendering Interreflections with All-frequency BRDFs},\n  journal = {ACM Transactions on Graphics},\n  volume = {33},\n  number = {1},\n  year = {2014},\n  pages = {10:1--10:16},\n}"
+  },
+  {
+    "year": "2013",
+    "title": "Anisotropic Spherical Gaussians",
+    "authors": "Kun Xu, Wei-Lun Sun, Zhao Dong, Dan-Yong Zhao, Run-Dong Wu, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Wei-Lun Sun",
+        "url": "http://sunweilun.github.io/"
+      },
+      {
+        "name": "Zhao Dong",
+        "url": "http://www.graphics.cornell.edu/~zd/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://i.cs.hku.hk/~yzyu/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 32(6), 209:1 - 209:11, 2013. (SIGGRAPH Asia 2013).",
+    "teaser": {
+      "href": "figs/asg.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/asg.gif"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "asg/index.htm",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/asg/index.htm",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "paper 2.3M",
+        "href": "asg/paper_asg.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/asg/paper_asg.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental 1.7M",
+        "href": "asg/supplemental_asg.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu13AnisotropicSG,\n  author = {Kun Xu and Wei-Lun Sun and Zhao Dong and Dan-Yong Zhao and Run-Dong Wu and Shi-Min Hu},\n  title = {Anisotropic Spherical Gaussians},\n  journal = {ACM Transactions on Graphics},\n  volume = {32},\n  number = {6},\n  year = {2013},\n  pages = {209:1--209:11},\n}"
+  },
+  {
+    "year": "2013",
+    "title": "Inverse Image Editing: Recovering a Semantic Editing History from a Before-and-After Image Pair",
+    "authors": "Shi-Min Hu, Kun Xu, Li-Qian Ma, Bin Liu, Bi-Ye Jiang, Jue Wang",
+    "author_links": [
+      {
+        "name": "Shi-Min Hu",
+        "url": "https://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      },
+      {
+        "name": "Li-Qian Ma",
+        "url": "http://cg.cs.tsinghua.edu.cn/people/~liqian/"
+      },
+      {
+        "name": "Bi-Ye Jiang",
+        "url": "http://byeah.github.io/"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 32(6), 194:1 - 194:11, 2013. (SIGGRAPH Asia 2013).",
+    "teaser": {
+      "href": "inverseedit/inverse.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/inverseedit/inverse.jpg"
+    },
+    "links": [
+      {
+        "label": "paper 8.2M",
+        "href": "inverseedit/paper_inverse_editing.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/inverseedit/paper_inverse_editing.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental 13.6M",
+        "href": "inverseedit/supplemental_inverse_editing.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/inverseedit/supplemental_inverse_editing.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Hu13InverseImageEditing,\n  author = {Shi-Min Hu and Kun Xu and Li-Qian Ma and Bin Liu and Bi-Ye Jiang and Jue Wang},\n  title = {Inverse Image Editing: Recovering a Semantic Editing History from a Before-and-After Image Pair},\n  journal = {ACM Transactions on Graphics},\n  volume = {32},\n  number = {6},\n  year = {2013},\n  pages = {194:1--194:11},\n}"
+  },
+  {
+    "year": "2013",
+    "title": "Change Blindness Images",
+    "authors": "Li-Qian Ma, Kun Xu, Tien-Tsin Wong, Bi-Ye Jiang, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Li-Qian Ma",
+        "url": "http://cg.cs.tsinghua.edu.cn/people/~liqian/"
+      },
+      {
+        "name": "Tien-Tsin Wong",
+        "url": "http://www.cse.cuhk.edu.hk/~ttwong/"
+      },
+      {
+        "name": "Bi-Ye Jiang",
+        "url": "http://byeah.github.io/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "IEEE Transactions on Visualization and Computer Graphics 19(11),1808-1819, 2013.",
+    "teaser": {
+      "href": "change_blindness/blind.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/change_blindness/blind.jpg"
+    },
+    "links": [
+      {
+        "label": "paper 3.9M",
+        "href": "change_blindness/change_blindness_paper_author_version.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/change_blindness/change_blindness_paper_author_version.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental 3.5M",
+        "href": "change_blindness/supplemental_tvcg.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/change_blindness/supplemental_tvcg.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Ma13ChangeBlindness,\n  author = {Li-Qian Ma and Kun Xu and Tien-Tsin Wong and Bi-Ye Jiang and Shi-Min Hu},\n  title = {Change Blindness Images},\n  journal = {IEEE Transactions on Visualization and Computer Graphics},\n  volume = {19},\n  number = {11},\n  year = {2013},\n  pages = {1808--1819},\n}"
+  },
+  {
+    "year": "2013",
+    "title": "Sketch2Scene: Sketch-based Co-retrieval and Co-placement of 3D Models",
+    "authors": "Kun Xu, Kang Chen, Hongbo Fu, Wei-Lun Sun, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Hongbo Fu",
+        "url": "http://sweb.cityu.edu.hk/hongbofu/"
+      },
+      {
+        "name": "Wei-Lun Sun",
+        "url": "http://sunweilun.github.io/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 32(4), 123:1-123:12, 2013. (SIGGRAPH 2013).",
+    "teaser": {
+      "href": "figs/sketch2scene.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/sketch2scene.jpg"
+    },
+    "links": [
+      {
+        "label": "paper 6.1M",
+        "href": "sketch2scene/sketch2scene_paper.pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental 4.4M",
+        "href": "sketch2scene/sketch2scene_supplemental_document.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu12Sketch2scene,\n  author = {Kun Xu and Kang Chen and Hongbo Fu and Wei-Lun Sun and Shi-Min Hu},\n  title = {Sketch2Scene: sketch-based co-retrieval and co-placement of 3D models},\n  journal = {ACM Transactions on Graphics},\n  volume = {32},\n  number = {4},\n  year = {2013},\n  pages = {123:1--123:12},\n}"
+  },
+  {
+    "year": "2012",
+    "title": "Accurate Translucent Material Rendering under Spherical Gaussian Lights",
+    "authors": "Ling-Qi Yan, Yahan Zhou, Kun Xu, Rui Wang",
+    "author_links": [
+      {
+        "name": "Rui Wang",
+        "url": "http://www.cs.umass.edu/~ruiwang/"
+      }
+    ],
+    "venue": "Computer Graphics Forum 31(7), 2267–2276, 2012. (Pacific Graphics 2012)",
+    "teaser": {
+      "href": "figs/sg_trans.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/sg_trans.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/GaussianTranslucent.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Yan12GaussianTranslucent,\n  author = {Ling-Qi Yan and Yahan Zhou and Kun Xu and Rui Wang},\n  title = {Accurate Translucent Material Rendering under Spherical Gaussian Lights},\n  journal = {Computer Graphics Forum},\n  volume = {31},\n  number = {7},\n  year = {2012},\n  pages = {2267-–2276},\n}"
+  },
+  {
+    "year": "2012",
+    "title": "Efficient Antialiased Edit Propagation for Images and Videos",
+    "authors": "Li-Qian Ma, Kun Xu",
+    "author_links": [
+      {
+        "name": "Li-Qian Ma",
+        "url": "http://cg.cs.tsinghua.edu.cn/people/~liqian/"
+      }
+    ],
+    "venue": "Computer & Graphics 36(8), 1005–1012, 2012.",
+    "teaser": {
+      "href": "figs/aa_edit.jpg",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/aa_edit.jpg"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/Efficient Antialiased Edit Propagation for Images and Videos.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Ma12AntialiasedEditPropagation,\n  author = {Li-Qian Ma and Kun Xu},\n  title = {Efﬁcient Antialiased Edit Propagation for Images and Videos},\n  journal = {Computer and Graphics},\n  volume = {36},\n  number = {8},\n  year = {2012},\n  pages = {1005–-1012},\n}"
+  },
+  {
+    "year": "2011",
+    "title": "Interactive Hair Rendering and Appearance Editing under Environment Lighting",
+    "authors": "Kun Xu, Li-Qian Ma, Bo Ren, Rui Wang, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Li-Qian Ma",
+        "url": "http://cg.cs.tsinghua.edu.cn/people/~liqian/"
+      },
+      {
+        "name": "Rui Wang",
+        "url": "http://www.cs.umass.edu/~ruiwang/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 30(6), 173:1-173:10, 2011. (SIGGRAPH Asia 2011)",
+    "teaser": {
+      "href": "figs/hair.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/hair.gif"
+    },
+    "links": [
+      {
+        "label": "project page",
+        "href": "hair/project.html",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/hair/project.html",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "paper 1.9M",
+        "href": "hair/[SIGA11][Interactive%20Hair%20Rendering%20and%20Appearance%20Editing%20under%20Environment%20Lighting].pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/hair/[SIGA11][Interactive%20Hair%20Rendering%20and%20Appearance%20Editing%20under%20Environment%20Lighting].pdf",
+        "external": false,
+        "link_back": false
+      },
+      {
+        "label": "supplemental 1.3M",
+        "href": "hair/[SIGA11][Interactive%20Hair%20Rendering%20and%20Appearance%20Editing%20under%20Environment%20Lighting]_sup.pdf",
+        "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/hair/[SIGA11][Interactive%20Hair%20Rendering%20and%20Appearance%20Editing%20under%20Environment%20Lighting]_sup.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu11sigasia,\n  author = {Kun Xu and Li-Qian Ma and Bo Ren and Rui Wang and Shi-Min Hu},\n  title = {Interactive Hair Rendering and Appearance Editing under Environment Lighting},\n  journal = {ACM Transactions on Graphics},\n  volume = {30},\n  number = {6},\n  year = {2011},\n  pages = {173:1--173:10},\n  articleno = {173},\n}"
+  },
+  {
+    "year": "2009",
+    "title": "Efficient Affinity-based Edit Propagation using K-D Tree",
+    "authors": "Kun Xu, Yong Li, Tao Ju, Shi-Min Hu, Tian-Qiang Liu",
+    "author_links": [
+      {
+        "name": "Tao Ju",
+        "url": "http://www.cs.wustl.edu/~taoju/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "ACM Transactions on Graphics 28(5), 118:1-118:6, 2009. (SIGGRAPH Asia 2009)",
+    "teaser": {
+      "href": "figs/kdtree.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/kdtree.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/propagation-kdtree.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu09sigasia,\n  author = {Kun Xu and Yong Li and Tao Ju and Shi-Min Hu and Tian-Qiang Liu},\n  title = {Efficient Affinity-based Edit Propagation using K-D Tree},\n  journal = {ACM Transactions on Graphics},\n  volume = {28},\n  number = {5},\n  year = {2009},\n  pages = {118:1--118:6},\n  articleno = {118},\n}"
+  },
+  {
+    "year": "2009",
+    "title": "Edit Propagation on Bidirectional Texture Functions",
+    "authors": "Kun Xu, Jiaping Wang, Xin Tong, Shi-Min Hu, Baining Guo",
+    "author_links": [
+      {
+        "name": "Jiaping Wang",
+        "url": "http://www.lightthoughts.com/jpwang/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      },
+      {
+        "name": "Baining Guo",
+        "url": "http://research.microsoft.com/users/bainguo/"
+      }
+    ],
+    "venue": "Computer Graphics Forum 28(7), 1871-1877, 2009. (Pacific Graphics 2009)",
+    "teaser": {
+      "href": "figs/btf.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/btf.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/btf-editing.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu09pg,\n  author = {Kun Xu and Jiaping Wang and Xin Tong and Shi-Min Hu and Baining Guo },\n  title = {Edit Propagation on Bidirectional Texture Functions},\n  journal = {Computer Graphics Forum},\n  volume = {28},\n  number = {7},\n  year = {2009},\n  pages = {1871--1877},\n}"
+  },
+  {
+    "year": "2008",
+    "title": "Spherical Piecewise Constant Basis Functions for All-Frequency Precomputed Radiance Transfer",
+    "authors": "Kun Xu, Yun-Tao Jia, Hongbo Fu, Shi-Min Hu, Chiew-Lan Tai",
+    "author_links": [
+      {
+        "name": "Yun-Tao Jia",
+        "url": "https://graphics.cs.uiuc.edu/~yuntao/"
+      },
+      {
+        "name": "Hongbo Fu",
+        "url": "http://ihome.ust.hk/~fuhb/index.htm"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      },
+      {
+        "name": "Chiew-Lan Tai",
+        "url": "http://www.cse.ust.hk/~taicl/"
+      }
+    ],
+    "venue": "IEEE Transaction on Visualization and Computer Graphics 14(2), 454-467, 2008.",
+    "teaser": {
+      "href": "figs/allfreq.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/allfreq.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/SPCBF_final.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu08tvcg,\n  author = {Kun Xu and Yun-Tao Jia and Hongbo Fu and Shi-Min Hu and Chiew-Lan Tai},\n  title = {Spherical Piecewise Constant Basis Functions for All-Frequency Precomputed Radiance Transfer},\n  journal = {IEEE Transaction on Visualization and Computer Graphics},\n  volume = {14},\n  number = {2},\n  year = {2008},\n  pages = {454--467},\n}"
+  },
+  {
+    "year": "2007",
+    "title": "Real-time homogeneous translucent material editing",
+    "authors": "Kun Xu, Yue Gao, Yong Li, Tao Ju, Shi-Min Hu",
+    "author_links": [
+      {
+        "name": "Tao Ju",
+        "url": "http://www.cs.wustl.edu/~taoju/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      }
+    ],
+    "venue": "Computer Graphics Forum 26(3), 545-552, 2007. (EuroGraphics 2007)",
+    "teaser": {
+      "href": "figs/eg_title.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/eg_title.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/DipoleEditting_final.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Xu07eg,\n  author = {Kun Xu and Yue Gao and Yong Li and Tao Ju and Shi-Min Hu},\n  title = {Real-time Homogenous Translucent Material Editing},\n  journal = {Computer Graphics Forum},\n  volume = {26},\n  number = {3},\n  year = {2007},\n  pages = {545--552},\n}"
+  },
+  {
+    "year": "2006",
+    "title": "Spherical Harmonics Scaling",
+    "authors": "Jiaping Wang, Kun Xu, Kun Zhou, Stephen Lin, Shi-Min Hu, Baining Guo",
+    "author_links": [
+      {
+        "name": "Jiaping Wang",
+        "url": "http://www.lightthoughts.com/jpwang/"
+      },
+      {
+        "name": "Kun Zhou",
+        "url": "http://research.microsoft.com/users/kunzhou/"
+      },
+      {
+        "name": "Stephen Lin",
+        "url": "http://research.microsoft.com/%7Estevelin/"
+      },
+      {
+        "name": "Shi-Min Hu",
+        "url": "http://cg.cs.tsinghua.edu.cn/prof_hu.htm"
+      },
+      {
+        "name": "Baining Guo",
+        "url": "http://research.microsoft.com/users/bainguo/"
+      }
+    ],
+    "venue": "Pacific Conference on Computer Graphics and Applications, Oct 2006. The Visual Computer, Volume 22, p713-720, Sept 2006.",
+    "teaser": {
+      "href": "figs/shs.gif",
+      "orig_url": "https://cg.cs.tsinghua.edu.cn/people/~kun/figs/shs.gif"
+    },
+    "links": [
+      {
+        "label": "paper",
+        "href": "papers/SHScaling.pdf",
+        "external": false,
+        "link_back": false
+      }
+    ],
+    "bibtex": "@article{Wang06pg,\n  author = {Jiaping Wang and Kun Xu and Kun Zhou and Stephen Lin and Shi-Min Hu and Baining Guo},\n  title = {Spherical Harmonics Scaling},\n  journal = {The Visual Computer},\n  volume = {22},\n  month = {Sept},\n  year = {2006},\n  pages = {713-720}\n}"
+  }
+]
